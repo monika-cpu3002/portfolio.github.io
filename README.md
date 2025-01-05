@@ -12,24 +12,12 @@ Here's a glimpse into my journey:
 
 **OVERVIEW:**  
 
-- **Efficient Navigation:** Provide optimized, eco-friendly transportation using electric vehicles, bicycles, and shuttles, supported by real-time traffic and route updates.
-- **Resource Management:** Dynamically allocate transportation and maintenance resources using advanced algorithms for peak efficiency.
-- **Environmental Monitoring:** Deploy IoT sensors for real-time tracking of air and noise pollution, enabling proactive measures.
-- **User-Friendly Interface:** Develop accessible apps and dashboards for tourists, residents, and administrators for seamless interaction.
 
 **Technical Stack:**  
 
-- **Languages:** C++, Java  
-- **Algorithms:** Dijkstra’s, A*, KMP, Chain Hashing, Graph Traversal (DFS/BFS)
-- **Tools:** Graphs, DAA Optimization Techniques
- 
+
 **Impact:**  
 
-- **Environmental Preservation:** Reduces air and noise pollution to protect Matheran’s natural environment and biodiversity.
-- **Enhanced Mobility:** Offers eco-friendly, congestion-free transportation, improving accessibility for residents and tourists.
-- **Economic Boost:** Drives eco-tourism growth and optimizes resource use for cost-effective, sustainable development.
-- **Health and Lifestyle Benefits:** Promotes cleaner air, quieter surroundings, and active lifestyles through non-motorized transport.
-- **Global Benchmark for Sustainability:** Establishes Matheran as a leading example of eco-conscious urban planning and tourism.
 
 ## 🚀 **Skills**  
 
@@ -41,8 +29,8 @@ Here's a glimpse into my journey:
 
 ## 🌐 **Find Me Online**
 
-- [GitHub](https://github.com/Samruddi11/portfolioo.github.io)
-- [LinkedIn](https://www.linkedin.com/in/h-b-samruddi-5a0372306/)
+- [GitHub]()
+- [LinkedIn]()
 
 ## Portfolio Highlights
 
@@ -55,18 +43,18 @@ Here's a glimpse into my journey:
 
 - **Course Name:** Algorithms Lab 
 - **Course Code:** 24ECAP202  
-- **Name:** H B Samruddi 
-- **SRN:** 02FE23BCI052  
+- **Name:** 
+- **SRN:** 
 - **Course Instructor:** Priyanka Gavade  
 - **University:** KLE TECHNOLOGICAL UNIVERSITY
-- ***Topic:** Pollution-Free City
+- ***Topic:** 
 
 ---
 
 ## 🎨 **What Drives Me**  
 - 💻 Constantly exploring new technologies and applying them creatively.
 - 🤝 Helping others grow while improving myself every day.  
-- 📈 Maintaining a stellar GPA of 9.0 in my B.E. in Computer Science & Engineering (AI) program.  
+- 📈 
 
 ---
 
